@@ -1,1 +1,1 @@
-# price-prediction-using-LSTM
+# Short-term price prediction using LSTM model
